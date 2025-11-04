@@ -9,7 +9,7 @@
 This project presents a full-fledged **market expansion and go-to-market (GTM) strategy** for an electric scooter company planning to expand from Tier-1 to **Tier-2 Indian cities** starting with **Lucknow, Kanpur, and Varanasi**.  
 The study simulates a **real business consulting assignment** integrating primary research, data modeling, ecosystem mapping, and financial feasibility.
 
-The goal was to answer three critical business questions:
+The goal was to answer three critical business questions
 1. Is there sustainable demand for EV scooters in Tier-2 cities?
 2. What infrastructure, partnerships, and marketing are needed for success?
 3. How quickly can the investment break even while ensuring high service uptime?
