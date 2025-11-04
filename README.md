@@ -1,7 +1,7 @@
 # 🚀 Electric Scooter Market Expansion Strategy — India 2025
 **Author:** Raj Shekhar Mishra  
 **Location:** Lucknow, Uttar Pradesh, India  
-**Date:** November 2025
+**Date:** September 2025
 
 ---
 
