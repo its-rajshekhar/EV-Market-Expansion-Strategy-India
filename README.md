@@ -190,21 +190,4 @@ Even in the conservative scenario, ROI remains positive if service uptime ≥97%
 > “EV adoption in small cities is not just about tech — it’s about trust.  
 Once you show consistent service and EMI options, people happily shift.”
 
----
-
-## 📁 Files in this Repository
-- README.md (this file)  
-- methodology.md  
-- assumptions.md  
-- interview-notes.md  
-- EXECUTIVE_SUMMARY.md  
-- ABOUT.md  
-- CHANGELOG.md  
-- LICENSE  
-- ev_data_sample.csv  
-
----
-
-
-## 🧮 Sample KPI Visualization
 
