@@ -1,0 +1,3 @@
+- Interview: Nitin (Courier rider) — concerned about battery swaps.
+- Interview: Anjali (college student) — values test-ride events.
+- Local mechanic interest: 6 garages willing to upskill.
